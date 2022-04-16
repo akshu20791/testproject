@@ -2,4 +2,3 @@ Git
 jenkins
 ansible
 docker
-We will learn git today
